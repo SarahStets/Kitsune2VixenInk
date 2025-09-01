@@ -2,7 +2,7 @@
 
 Explore my writing:
 
-- [Sample Poem](stories/poems/sample-poem.md)
+- [Poems/poems](poems/poems/)
 - [Stories](stories/stories/) <!-- Add your stories here soon! -->
 
 Thanks for visiting!
