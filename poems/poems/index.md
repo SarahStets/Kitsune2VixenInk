@@ -2,7 +2,7 @@
 
 These are my Poems 
 
-- [Poems/poems](poems/poems/)
+- [Poems](poems/poems/)
 - [Stories](stories/stories/) <!-- Add your stories here soon! -->
 
 Thanks for visiting!
