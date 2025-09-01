@@ -1,0 +1,51 @@
+body {
+  font-family: Georgia, serif;
+  background-color: #f9f7f1;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #d4a373;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 1rem;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  max-width: 800px;
+  margin: auto;
+  padding: 2rem;
+}
+
+h1, h2 {
+  font-family: "Palatino Linotype", serif;
+}
+
+ul {
+  list-style-type: square;
+}
+
+li {
+  margin: 0.5rem 0;
+  color: #555;
+  font-style: italic;
+}
+
+footer {
+  background-color: #d4a373;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
