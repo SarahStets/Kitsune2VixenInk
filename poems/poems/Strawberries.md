@@ -41,3 +41,5 @@ And then I turn the page.
 
 And if they don’t understand,
 I tell them it was all just a story I once read in a very sad, very beautiful book.
+
+And then I turn the page.
