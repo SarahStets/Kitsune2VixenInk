@@ -1,7 +1,16 @@
-# Poems
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Writing</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1>My Writing</h1>
+  <ul>
+    <li><a href="strawberries.html">Strawberries</a></li>
 
-Welcome to my poetry collection!  
-Add your poems in this folder. Each poem can have its own file.
-
-<!-- List your poems here -->
-- [Strawberries](Sindex.md)
+    <!-- Add more works here -->
+  </ul>
+</body>
+</html>
